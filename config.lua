@@ -17,7 +17,7 @@ Config.Locations = {
     vector3(-203.7099, -861.3494, 30.2572)
 }
 
-Config.Czas = 0.1 * 60000
+Config.Czas = 2 * 60000
 
 Config.MinWyplata = 500
 Config.MaxWyplata = 2000
