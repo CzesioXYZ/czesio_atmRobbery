@@ -1,1 +1,1 @@
-# Prosty skrypt na okradanie bonkomatów
+# Prosty skrypt na okradanie bankomatów
